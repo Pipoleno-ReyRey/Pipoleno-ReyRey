@@ -5,11 +5,13 @@
 * Building scalable and high-performance APIs and microservices
 * Exploring best practices in backend development
 * Working with C#/.NET, Python, MySQL, MongoDB, and Docker
+  
 🌱 I’m currently learning:
 * Advanced microservices architecture and distributed systems
 * Python for backend development, expanding beyond C#
 * Cloud deployment using Docker, Kubernetes, and Railway
 * Best practices for secure and high-availability APIs
+  
 💞️ I’m looking to collaborate on:
 * Backend projects using C#/.NET and Python
 * API and microservices development
