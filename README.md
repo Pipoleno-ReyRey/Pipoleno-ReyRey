@@ -8,7 +8,7 @@
   
 🌱 I’m currently learning:
 * Advanced microservices architecture and distributed systems
-* Python for backend development, expanding beyond C#
+* C# for backend development, learning Python in FastAPI
 * Cloud deployment using Docker, Kubernetes, and Railway
 * Best practices for secure and high-availability APIs
   
