@@ -4,16 +4,16 @@
 👀 I’m interested in:
 * Building scalable and high-performance APIs and microservices
 * Exploring best practices in backend development
-* Working with C#/.NET, Python, MySQL, MongoDB, and Docker
+* Working with C#/.NET, Python, SQL Server, MySQL, MongoDB, Angular, Docker, etc
   
 🌱 I’m currently learning:
 * Advanced microservices architecture and distributed systems
-* C# for backend development, learning Python in FastAPI
+* C# for backend development, learning Python in FastAPI and Angular
 * Cloud deployment using Docker, Kubernetes, and Railway
 * Best practices for secure and high-availability APIs
   
 💞️ I’m looking to collaborate on:
-* Backend projects using C#/.NET and Python
+* Backend projects using C#/.NET, Python and Angular
 * API and microservices development
 * Optimizing database performance for MySQL and MongoDB
 
