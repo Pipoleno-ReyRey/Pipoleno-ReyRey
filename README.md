@@ -1,5 +1,5 @@
 👋 Hi, I’m Reynaldo Suero
-💻 Backend Developer | .NET & Microservices Enthusiast
+💻 Software Developer | .NET & Microservices Enthusiast
 
 👀 I’m interested in:
 * Building scalable and high-performance APIs and microservices
